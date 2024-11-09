@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import "./SideBar.css"; 
 import SideBarItem from "./SideBarItem";
 
@@ -6,7 +7,7 @@ function SideBar() {
         <div className="sidebar-container">
             <div className="item-container">
             <SideBarItem name="Recipes"/>
-            <SideBarItem name="Create Recipe"/>
+            <Link to="/create-recipe">Create Recipe</Link>
             <SideBarItem name="About Us"/>
             </div>
         </div>

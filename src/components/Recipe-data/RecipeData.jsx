@@ -3,7 +3,7 @@ import RecipeCard from "../Cards/RecipeCard";
 import { useState } from "react";
 import "../Recipe-data/RecipeData.css";
 
-function Data() {
+function RecipeData() {
     const [data, setData] = useState(recipeData);
     function deleteRecipe(recipe) {
         const filterData = data.filter(food => food.id !== recipe)
@@ -17,4 +17,4 @@ function Data() {
         </div>
     )
 }
-export default Data;
+export default RecipeData;
