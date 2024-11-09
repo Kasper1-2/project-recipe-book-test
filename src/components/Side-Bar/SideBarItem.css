@@ -7,6 +7,7 @@
     cursor: pointer; 
     padding: 14px 20px;
     margin: 8px 25px;
+    text-decoration: none;
 }
 
 .sidebar-menu-item:hover {
@@ -18,4 +19,5 @@
     background-color: #F2F1EB;
     font-weight: 600;
 }
+
 

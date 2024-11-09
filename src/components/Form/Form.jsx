@@ -7,7 +7,7 @@ function Form () {
     
     <form>
   <span>Create a recipe</span>
-  <div class="form-group">
+  <div className="form-group">
     <label>
       Title
       <input name="Title" type="text" placeholder="Tasty Treats" />

@@ -1,4 +1,5 @@
 import "./SideBarItem.css"; 
+import { Link } from "react-router-dom";
 
 function SideBarItem(props) {
     return (
