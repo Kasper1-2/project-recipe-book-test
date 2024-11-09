@@ -1,4 +1,17 @@
-#root {
-height: 100%;
+/* App.css */
+
+.main-section {
+  display: flex;
+  min-height: 100vh; /* Full viewport height */
 }
 
+.sidebar-container {
+  width: 250px; /* Fixed width for sidebar */
+  background-color: #f9f8f5; /* Example background color */
+}
+
+.content-area {
+  flex: 1; /* Main content takes up remaining space */
+  padding: 20px;
+  background-color: #fff; /* Optional background color */
+}

@@ -5,15 +5,15 @@ import Footer from "./components/Footer-map/Footer";
 import SideBar from "./components/Side-Bar/SideBar";
 import Content from "./components/content/Content";
 import CreateRecipePage from "./Pages/CreateRecipePage";
+import HomePage from "./Pages/HomePage";
 
 import "./App.css";
-import HomePage from "./Pages/HomePage";
 
 function App() {
   return (
     <>
       <Router>
-        <Navbar />
+        <Navbar/>
         <div className="main-section">
           <main>
             <Routes>
