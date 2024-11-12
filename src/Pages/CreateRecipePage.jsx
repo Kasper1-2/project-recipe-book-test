@@ -1,18 +1,16 @@
-import React from "react";
-import Form from "../components/Form/Form";
-import RecipeData from "../components/Recipe-data/RecipeData";
+import RecipeForm from "../components/Recipe-form/RecipeForm";
 
 function CreateRecipePage() {
+
   return (
-    <>
-      <div>
-        <Form />
+    <> 
+
+      <div className="form-container">
+        <RecipeForm />
       </div>
-      <div>
-        <RecipeData />
-      </div>
+
     </>
-  );
+    )
 }
 
-export default CreateRecipePage; 
+export default CreateRecipePage;

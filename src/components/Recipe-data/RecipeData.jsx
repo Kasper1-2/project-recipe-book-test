@@ -2,8 +2,9 @@ import recipeData from "/src/data/data.json";
 import RecipeCard from "../Cards/RecipeCard";
 import { useState } from "react";
 import "../Recipe-data/RecipeData.css";
+import { NavLink } from "react-router-dom";
 
-function RecipeData() {
+function Data() {
     const [data, setData] = useState(recipeData);
     function deleteRecipe(recipe) {
         const filterData = data.filter(food => food.id !== recipe)
@@ -12,9 +13,10 @@ function RecipeData() {
     return (
         <div className="recipe-data">
             {data.map((food) => {
-                return <RecipeCard key={food.id} food = {food} deleteRecipe={deleteRecipe}/>
+                return<RecipeCard key={food.id} food={food} deleteRecipe={deleteRecipe} />
             })}
+
         </div>
     )
 }
-export default RecipeData;
+export default Data;
