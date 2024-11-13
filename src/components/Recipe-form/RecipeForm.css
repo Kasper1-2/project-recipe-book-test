@@ -1,7 +1,7 @@
-.form-wrapper {
+.recipe-form {
   width: 300px;
   position: absolute;
-  margin-right: 370px;
+  margin-right: 325px;
   right: 0;
   margin-top: 15px;
 }
