@@ -7,7 +7,12 @@
         "servings": 1,
         "description": "Classic Italian dish with a tomato base, cheese, and various toppings.",
         "preparation": "Spread sauce on dough, add cheese and toppings, bake until golden.",
-        "ingredients": ["pizza dough", "tomato sauce", "mozzarella cheese", "toppings of choice"]
+        "ingredients": [
+            "pizza dough",
+            "tomato sauce",
+            "mozzarella cheese",
+            "toppings of choice"
+        ]
     },
     {
         "id": "37e0b31d-63f4-4d42-9f4b-e9a0fc464d60",
@@ -17,7 +22,13 @@
         "servings": 1,
         "description": "Fresh, mixed greens with veggies, perfect as a light meal.",
         "preparation": "Combine fresh greens, chopped veggies, and dressing. Toss well.",
-        "ingredients": ["mixed greens" , "cucumber", "tomato", "carrots", "salad dressing"]
+        "ingredients": [
+            "mixed greens",
+            "cucumber",
+            "tomato",
+            "carrots",
+            "salad dressing"
+        ]
     },
     {
         "id": "6c0f6f33-8c50-403d-9d1c-6ac9d8b77f29",
@@ -27,7 +38,12 @@
         "servings": 1,
         "description": "Soft Italian potato dumplings, usually served with a savory sauce.",
         "preparation": "Boil gnocchi until it floats, then toss in sauce and serve warm.",
-        "ingredients": ["gnocchi", "butter", "sage", "Parmesan cheese"]
+        "ingredients": [
+            "gnocchi",
+            "butter",
+            "sage",
+            "Parmesan cheese"
+        ]
     },
     {
         "id": "f4b4d2bc-ff12-4f3f-b3b3-19d2f1682401",
@@ -37,7 +53,13 @@
         "servings": 1,
         "description": "Slow-cooked beef roast with vegetables and rich flavors.",
         "preparation": "Sear roast, add veggies and broth, then slow-cook until tender.",
-        "ingredients": ["beef roast", "carrots", "potatoes", "onion", "beef broth"]
+        "ingredients": [
+            "beef roast",
+            "carrots",
+            "potatoes",
+            "onion",
+            "beef broth"
+        ]
     },
     {
         "id": "bf89c1db-5c5b-4262-9d1e-8a68f88c61d5",
@@ -47,7 +69,13 @@
         "servings": 1,
         "description": "Layered pasta with meat, cheese, and marinara sauce, baked to perfection.",
         "preparation": "Layer pasta, sauce, cheese, and meat; bake until bubbly and golden.",
-        "ingredients": ["lasagna noodles", "ground beef", "ricotta cheese", "mozzarella", "marinara sauce"]
+        "ingredients": [
+            "lasagna noodles",
+            "ground beef",
+            "ricotta cheese",
+            "mozzarella",
+            "marinara sauce"
+        ]
     },
     {
         "id": "bca9beec-43d3-48b1-9b57-793a8a8c3520",
@@ -57,7 +85,14 @@
         "servings": 1,
         "description": "Grilled beef patty in a bun, served with various toppings.",
         "preparation": "Grill beef patty, place on bun with toppings of choice, and enjoy.",
-        "ingredients": ["ground beef", "burger buns", "lettuce", "tomato", "cheese", "condiments"]
+        "ingredients": [
+            "ground beef",
+            "burger buns",
+            "lettuce",
+            "tomato",
+            "cheese",
+            "condiments"
+        ]
     },
     {
         "id": "b777a69a-7f1c-41e8-8a4c-1d0e9e4cace8",
@@ -67,7 +102,13 @@
         "servings": 1,
         "description": "Thai stir-fried noodles with vegetables, peanuts, and protein of choice.",
         "preparation": "Stir-fry noodles with protein, sauce, veggies, and top with peanuts.",
-        "ingredients": ["rice noodles", "chicken or tofu", "bean sprouts", "peanuts", "Pad Thai sauce"]
+        "ingredients": [
+            "rice noodles",
+            "chicken or tofu",
+            "bean sprouts",
+            "peanuts",
+            "Pad Thai sauce"
+        ]
     },
     {
         "id": "e1f87a2e-60b3-4a3f-bb48-20a396a9a94f",
@@ -77,7 +118,13 @@
         "servings": 1,
         "description": "Stuffed cabbage rolls filled with rice and meat.",
         "preparation": "Fill cabbage leaves with rice and meat, roll and cook in broth.",
-        "ingredients": ["cabbage leaves", "ground meat", "rice", "onion", "broth"]
+        "ingredients": [
+            "cabbage leaves",
+            "ground meat",
+            "rice",
+            "onion",
+            "broth"
+        ]
     },
     {
         "id": "bbfd30fd-cd75-4e3b-8fc8-3d3fd62a3c39",
@@ -87,7 +134,12 @@
         "servings": 1,
         "description": "Grilled sausage in a bun, often topped with condiments.",
         "preparation": "Grill sausage, place in bun, and top with condiments of choice.",
-        "ingredients": ["hot dog bun", "sausage", "ketchup", "mustard"]
+        "ingredients": [
+            "hot dog bun",
+            "sausage",
+            "ketchup",
+            "mustard"
+        ]
     },
     {
         "id": "1c6d5b5f-4e72-4136-8c6c-9cf3e3d16a65",
@@ -97,7 +149,14 @@
         "servings": 1,
         "description": "Rich, moist chocolate cake with layers of frosting.",
         "preparation": "Bake cake layers, frost with chocolate frosting, and serve.",
-        "ingredients": ["flour", "cocoa powder", "sugar", "eggs", "butter", "chocolate frosting"]
+        "ingredients": [
+            "flour",
+            "cocoa powder",
+            "sugar",
+            "eggs",
+            "butter",
+            "chocolate frosting"
+        ]
     },
     {
         "id": "18d81b63-9f24-4c5f-a3b3-8a0b3d70f4b5",
@@ -107,7 +166,13 @@
         "servings": 1,
         "description": "Pasta with creamy sauce, pancetta, Parmesan, and black pepper.",
         "preparation": "Cook pasta, mix with pancetta, egg, and cheese until creamy.",
-        "ingredients": ["spaghetti", "pancetta", "Parmesan cheese", "egg", "black pepper"]
+        "ingredients": [
+            "spaghetti",
+            "pancetta",
+            "Parmesan cheese",
+            "egg",
+            "black pepper"
+        ]
     },
     {
         "id": "67f7cdb7-8f77-4a3a-9155-317c4d13c13d",
@@ -117,7 +182,13 @@
         "servings": 1,
         "description": "Marinated chicken in spiced tomato-based cream sauce.",
         "preparation": "Cook marinated chicken, then simmer in tomato-based sauce.",
-        "ingredients": ["chicken", "yogurt", "garam masala", "tomato sauce", "cream"]
+        "ingredients": [
+            "chicken",
+            "yogurt",
+            "garam masala",
+            "tomato sauce",
+            "cream"
+        ]
     },
     {
         "id": "42c4a8ff-05e3-4a77-baf7-1e676ed1f7f2",
@@ -127,7 +198,13 @@
         "servings": 1,
         "description": "Beef in creamy mushroom sauce, often served with noodles.",
         "preparation": "Sauté beef and mushrooms, add cream sauce, and serve over noodles.",
-        "ingredients": ["beef", "mushrooms", "onion", "sour cream", "noodles"]
+        "ingredients": [
+            "beef",
+            "mushrooms",
+            "onion",
+            "sour cream",
+            "noodles"
+        ]
     },
     {
         "id": "73b4fc90-3f6b-47c8-843f-763f6a11a456",
@@ -137,7 +214,13 @@
         "servings": 1,
         "description": "Quick stir-fried veggies with sauce, often served with rice.",
         "preparation": "Stir-fry vegetables in hot oil, add sauce, and serve over rice.",
-        "ingredients": ["mixed vegetables", "soy sauce", "garlic", "ginger", "oil"]
+        "ingredients": [
+            "mixed vegetables",
+            "soy sauce",
+            "garlic",
+            "ginger",
+            "oil"
+        ]
     },
     {
         "id": "c4d36e24-9bd4-4811-94a3-99d61d4d2f38",
@@ -147,7 +230,13 @@
         "servings": 1,
         "description": "French vegetable stew with tomatoes, zucchini, and eggplant.",
         "preparation": "Layer sliced vegetables, bake with herbs and olive oil.",
-        "ingredients": ["tomatoes", "zucchini", "eggplant", "bell peppers", "herbs"]
+        "ingredients": [
+            "tomatoes",
+            "zucchini",
+            "eggplant",
+            "bell peppers",
+            "herbs"
+        ]
     },
     {
         "id": "b9a8b9b5-67e3-4042-8132-e69d13e1d4f7",
@@ -157,7 +246,13 @@
         "servings": 1,
         "description": "Creamy pasta with grilled chicken and Parmesan cheese.",
         "preparation": "Cook pasta, mix with Alfredo sauce and grilled chicken.",
-        "ingredients": ["fettuccine", "chicken breast", "heavy cream", "Parmesan cheese", "butter"]
+        "ingredients": [
+            "fettuccine",
+            "chicken breast",
+            "heavy cream",
+            "Parmesan cheese",
+            "butter"
+        ]
     },
     {
         "id": "3c8f99ab-2f75-4e98-a7a9-0df5bb8473d5",
@@ -167,6 +262,12 @@
         "servings": 1,
         "description": "Soft tacos filled with seasoned fish, cabbage, and sauce.",
         "preparation": "Season and cook fish, assemble in tortillas with toppings.",
-        "ingredients": ["fish fillets", "tortillas", "cabbage", "lime", "sour cream"]
+        "ingredients": [
+            "fish fillets",
+            "tortillas",
+            "cabbage",
+            "lime",
+            "sour cream"
+        ]
     }
 ]
